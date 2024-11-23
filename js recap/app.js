@@ -9,6 +9,7 @@ document.getElementById('searchBtn').addEventListener('click', async () => {
     // Hint 2: Fetch the movies using the fetchMovies function.
     // Hint 3: Sort the movies by year.
     // Hint 4: Dynamically create and append movie elements to the resultsDiv.
+    // Hint 5:In some movies the poster is not available (movie.Poster='N/A') in this case use the placeholder.png as a poster 
     
 });
 /* Hint: The movie element should look like this: 
